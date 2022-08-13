@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>RSSReader.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>ED6EA4CF27A1FC8B0041B465</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>ED6EA4ED27A1FC8E0041B465</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>ED6EA4F727A1FC8E0041B465</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
